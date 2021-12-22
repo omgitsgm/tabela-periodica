@@ -5,6 +5,8 @@
 <p>Em relação ao <strong>HTML</strong>, foram utilizadas neste projeto, principalmente as tag's &lt;table&gt;, &lt;tr&gt; e &lt;td&gt;, que me possibilitaram estruturar a tabela periódica da melhor maneira o possível.</p> 
 <p>Já em relação ao <strong>CSS</strong>, eu optei por estilizar a minha tabela com um tema mais 'dark', mas mantive a essência da tabela periódica tradicional, utilizando cores vivas para distinguir os grupos de elementos. Além disso, utilizei o 'hover' para criar uma animação básica de mudança de cor quando o usuário passa o mouse por cima dos elementos.</p>
 
+<img src="readme-files/tabela-periodica.png"/>
+
 <strong>Aviso: Esta página não é responsiva, por isso, ao executar o projeto na sua máquina, ela pode não se ajustar exatamente ao tamanho da sua tela. Agradeço a compreensão.</strong>
 
   
