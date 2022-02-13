@@ -13,7 +13,10 @@ Já em relação ao **CSS**, eu optei por estilizar a minha tabela com um tema '
 
 ---
   
-<h3 align="center">💻 Como executar o projeto</h3>
+<h3 align="center">💻 Como visualizar o projeto</h3>
+Acesse: <a href="https://omgitsgm.github.io/tabela-periodica/">https://omgitsgm.github.io/tabela-periodica/</a>
+
+Ou
 <ol>
   <li>Faça o download do repositório.</li>
   <li>Extraia o arquivo .zip</li>
